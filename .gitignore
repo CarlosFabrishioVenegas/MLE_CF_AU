@@ -17,6 +17,4 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Datos grandes (CSV o modelos si no los quieres subir)
-*.csv
-*.pkl
 *.sav
