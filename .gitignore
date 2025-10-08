@@ -1,0 +1,22 @@
+# Ignorar entornos virtuales
+pycaret_env/
+venv/
+.venv/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales y caché
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Archivos de notebooks temporales
+.ipynb_checkpoints/
+
+# Datos grandes (CSV o modelos si no los quieres subir)
+*.csv
+*.pkl
+*.sav
